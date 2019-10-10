@@ -1,0 +1,12 @@
+{
+  "name": "MwoRPG",
+  "version": "0.1.0",
+  "description": "Bot rpg",
+  "main": "index.js",
+  "repository": "https://github.com/XDyeu/mworpg.git",
+  "author": "Alice <amtyty13@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
