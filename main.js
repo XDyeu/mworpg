@@ -13,4 +13,4 @@ client.on("message", msg => {
     msg.channel.send("@everyone (noteveyone), salut a tous");
 });
 
-client.login(process.env.TOKEN);
+client.login("NTYyMzgzMjEwMTY4ODQ0MzUy.XZ9yOw.mw6PDSB-9Mu54jqYriaesMbq3KQ");
